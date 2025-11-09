@@ -1,13 +1,4 @@
-# ChethanNazreS
----
-
-# 🌐 **Chethan Nazre S — Developer Portfolio**
-
-![Banner](https://i.imgur.com/QZNTFbl.gif)
-*(Sample aesthetic banner — can be replaced with your custom portfolio GIF later, e.g. your logo animation or site preview.)*
-
----
-
+## 🌐 **Chethan Nazre S — Developer Portfolio**
 ## 👋 **About Me**
 
 I’m **Chethan Nazre S**, a **Full Stack Developer** and **AI/ML Enthusiast**, pursuing my **B.E. in Information Science and Engineering** at *Malnad College of Engineering (2021–2025)*.
@@ -19,8 +10,8 @@ My focus lies in combining **design thinking, development precision, and data in
 
 ## 🚀 **Live Portfolio**
 
-🔗 [**Visit My Portfolio**](#)
-*(Add your live deployment link here, e.g., [https://chethannazre.vercel.app](https://chethannazre.vercel.app))*
+🔗 [**Visit My Portfolio**](https://chethan-nazre-s.vercel.app/)
+
 
 ---
 
@@ -58,16 +49,6 @@ My focus lies in combining **design thinking, development precision, and data in
 * Built the official **Seven Sports Club** website using **Laravel, PHP, PostgreSQL**, and **REST APIs**.
 * Designed secure login systems, interactive dashboards, and responsive pages.
 * Improved page performance through optimized API and query design.
-
----
-
-### 🧩 **EcoTown Health Tech — Health Data Visualization Intern**
-
-📍 *Remote | Jun 2024 – Jul 2024*
-
-* Developed an interactive **Biomarker Visualization Dashboard** to display and analyze patient health data.
-* Used **Python**, **Plotly**, and **Streamlit** for building real-time data visualizations.
-* Focused on **UI clarity**, **data precision**, and **usability for non-technical users**.
 
 ---
 
@@ -139,4 +120,5 @@ My focus lies in combining **design thinking, development precision, and data in
 ✨ *“Design with purpose. Develop with precision.”* — **Chethan Nazre S**
 
 ---
+
 
